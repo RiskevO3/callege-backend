@@ -1,0 +1,11 @@
+.vscode*
+__pycache__
+venv
+.env
+req.txt
+res.txt
+testipaymu.py
+testfunc.py
+client_secret.json
+client_secrets.json
+testdikti.py
